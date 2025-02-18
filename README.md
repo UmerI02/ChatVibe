@@ -13,7 +13,7 @@ ChatVibe is a simple chat application designed to facilitate real-time communica
 - 🚀 Online user status
 - 👌 Global state management with Zustand
 - 🐞 Error handling both on the server and on the client
-- ⭐ At the end Deployment like a pro for FREE!
+- ⭐ Multiple themes to choose from
 - ⏳ And much more!
 
 ## Installation
