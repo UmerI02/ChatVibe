@@ -68,7 +68,7 @@ npm start
 Once the server is running, open your browser and go to:
 
 ```
-http://localhost:5173
+http://localhost:5001
 ```
 
 ## Technologies Used
