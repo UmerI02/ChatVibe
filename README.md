@@ -2,6 +2,9 @@
 
 ChatVibe is a simple chat application designed to facilitate real-time communication between users. It leverages WebSockets for instant messaging and provides a user-friendly interface for seamless conversations.
 
+![image](https://github.com/user-attachments/assets/654edfac-12da-4825-b605-8ba171fff542)
+
+
 ## Highlights
 
 - 🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
